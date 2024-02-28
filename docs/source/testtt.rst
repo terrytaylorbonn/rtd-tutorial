@@ -1,3 +1,7 @@
+ttttttttttttttttttttt
+===================================
+
+
 You start to understand what AI really is when you start using it. And this Wiki shows you step-by-step how to do that for various types of object detection/recognition AI (and some other types, such as gesture recognition).
 
 And you can realistically use AI on a drone thanks to
