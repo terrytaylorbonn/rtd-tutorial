@@ -16,5 +16,7 @@ Contents
 .. toctree::
 
    home
+   test1 
+   test2
    usage
    api
