@@ -15,6 +15,6 @@ Contents
 
 .. toctree::
 
-   Home.rst
+   Home
    usage
    api
