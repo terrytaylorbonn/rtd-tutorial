@@ -24,7 +24,7 @@ getting started!
 *Screenshot below: The real (FPV) thing (if jammed, the FPV drone becomes
 uncontrolled; with AI it becomes autonomous).*
 
- |image1|
+|image1|
 
 .. |image| image:: https://github.com/terrytaylorbonn/auxdrone/assets/20533814/d72f191f-f475-4e76-a8cb-6f6b1be61ec3
 .. |image1| image:: https://github.com/terrytaylorbonn/auxdrone/assets/20533814/d3d88ae9-0c8b-4dde-9189-d3a3b0ae805d

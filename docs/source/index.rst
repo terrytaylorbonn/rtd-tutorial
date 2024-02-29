@@ -1,14 +1,11 @@
 Zip tie AI docs 
 ===============
 
-This is the ReadTheDocs doc website for my **zip tie AI drone** project.
+This is the doc website for the **zip tie AI drone** project.
 
+.. Check out the :doc:`usage` section for further information.
 
-Check out the :doc:`usage` section for further information.
-
-.. note::
-
-   This project is under active development.
+.. note:: This project is under active development.
 
 Contents
 --------
@@ -16,5 +13,5 @@ Contents
 .. toctree::
 
    home
-   test1
+   Wiki-organization
 
