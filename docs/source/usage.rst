@@ -1,4 +1,4 @@
-Usagexxxxxxxxxxxxxxxxxxxxx
+Usage
 =====
 
 .. _installation:
@@ -6,29 +6,28 @@ Usagexxxxxxxxxxxxxxxxxxxxx
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+(code example):
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install xxxxxxx
 
-Creating recipes
+Using
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+To xxx use the ``xxx.yyy()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+.. autofunction:: xxx.yyy
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+The ``aaa`` parameter should be either ``"a1111"``, ``"a222"``,
+or ``"a333"``. Otherwise, :py:func:`xxx.yyy`
 will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+.. autoexception:: xxx.InvalidKindError
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import xxx
+>>> xxx.yyy()
+['rrr', 'sss', 'ttt']
 
