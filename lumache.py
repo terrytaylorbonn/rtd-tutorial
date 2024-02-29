@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+xxx - Python library.
 """
 
 __version__ = "0.1.0"
@@ -10,14 +10,14 @@ class InvalidKindError(Exception):
     pass
 
 
-def get_random_ingredients(kind=None):
+def get_random_xxx(kind=None):
     """
-    Return a list of random ingredients as strings.
+    Return a list of xxx as strings.
 
-    :param kind: Optional "kind" of ingredients.
+    :param kind: Optional "kind".
     :type kind: list[str] or None
-    :raise lumache.InvalidKindError: If the kind is invalid.
-    :return: The ingredients list.
+    :raise xxx.InvalidKindError: If the kind is invalid.
+    :return: zzzzz.
     :rtype: list[str]
     """
-    return ["shells", "gorgonzola", "parsley"]
+    return ["rrrr", "ssss", "tttt"]
