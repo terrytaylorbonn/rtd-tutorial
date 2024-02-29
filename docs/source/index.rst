@@ -15,6 +15,6 @@ Contents
 
 .. toctree::
 
-   Home
+   home
    usage
    api
