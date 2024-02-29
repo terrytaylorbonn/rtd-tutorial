@@ -1,4 +1,4 @@
-home
+Home
 =====
 
 This is the ZiptieAI.com docs website. *Note: I ran the wiki pages through a converter to rst format. Does not work too well, need to edit manually.*
