@@ -3,7 +3,7 @@ Docs overview
 
 Diagram shows:
 
-.. image:: images/test.png
+.. image:: images/overview.png
   :width: 400
 
 
