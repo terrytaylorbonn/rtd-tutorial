@@ -9,6 +9,9 @@ This is the doc website for the **zip tie AI drone** project.
 
 .. note:: This project is under active development.
 
+.. image:: images/test.pn
+  :width: 400
+
 Contents
 --------
 
