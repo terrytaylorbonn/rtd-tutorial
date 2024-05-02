@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'ziptieai'
-copyright = 'none'
-author = 'taylor'
+project = 'Ziptieai'
+copyright = '(none)'
+author = 'TT'
 
-release = '0.1'
-version = '0.1.0'
+release = '24.0502'
+version = '1'
 
 # -- General configuration
 
