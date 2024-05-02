@@ -3,15 +3,15 @@ Home
 
 This is the ZiptieAI.com docs website. 
 
-ZiptieAI shows how to get started with ziptie drones and AI. Its not a product. A docs.{product}.com website is not really required (there is no installation, user manual, or API specifically for ZiptieAI). Therefore, this site is a simple overview of the doc processes I use for ZiptieAI.
+ZiptieAI shows how to get started with ziptie drones and AI. Its not a product. A docs.{product}.com website is not really required (there is no installation, user manual, or API specifically for ZiptieAI). Therefore, this docs site is a simple overview of the ZiptieAI documentation processes.
 
 See also 
-  - `ZietieAi.com <https://ziptieai.com/>`_
+  - `ZiptieAi.com <https://ziptieai.com/>`_
   - `Wiki <https://github.com/terrytaylorbonn/auxdrone/wiki/>`_
   - `Google drive <https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx_j_y0GJ6_RANR8Tjm>`_
 
 
-*Screenshot below: An FPV drone (if jammed, the FPV drone becomes
+*Below: An FPV drone (if jammed, the FPV drone becomes
 uncontrollable; with AI it becomes autonomous).*
 
 |image1|

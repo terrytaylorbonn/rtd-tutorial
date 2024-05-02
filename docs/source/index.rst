@@ -1,7 +1,7 @@
 Zip tie AI docs 
 ===============
 
-This is the docs website for the **zip tie AI drone** project.
+This is the documentation website for the **Ziptie AI** drone project.
 
 .. Check out the :doc:`usage` section for further information.
 
@@ -13,5 +13,5 @@ Contents
 .. toctree::
 
    home
-   Docs-overview
-   Docs-process
+   Doc-overview
+   Doc-process
