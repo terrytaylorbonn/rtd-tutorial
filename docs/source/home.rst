@@ -11,8 +11,7 @@ See also
   - `Google drive <https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx_j_y0GJ6_RANR8Tjm>`_
 
 
-*Below: An FPV drone (if jammed, the FPV drone becomes
-uncontrollable; with AI it becomes autonomous).*
+*Below: An FPV drone (if jammed, the FPV drone becomes uncontrollable; with AI it becomes autonomous).*
 
 |image1|
 
