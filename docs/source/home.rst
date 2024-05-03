@@ -4,6 +4,7 @@ Mission
 The ZiptieAI mission is to show how to get started with ziptie drones and AI (it not a product). 
 
 There 2 main types of drones, for 2 different missions:
+
 - FPV drones. These are the smaller drones that focus on "first person view" (FPV). They are typically used for racing, freestyle, and cinematic shots. 
 - Autonomous drones. These are the larger drones that focus on autonomy. They are typically used for mapping, surveying, and other missions that require a lot of flight time and payload capacity. However, you can also use them for other missions, such as search and rescue, surveillance, and more.
 
