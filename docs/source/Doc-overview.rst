@@ -1,25 +1,25 @@
 Documentation overview 
 ======================
 
-The following diagram summarizes ZiptieAI documentation:
 
-.. image:: images/overview2.png
+Doc sites
+---------
 
-Links 
   - `ZiptieAi.com <https://ziptieai.com/>`_
+  - `docs.ziptieai.com <https://docs.ziptieai.com/>`(this site)_
   - `Wiki <https://github.com/terrytaylorbonn/auxdrone/wiki/>`_
   - `Google drive <https://drive.google.com/drive/folders/1HrzLExPTAL5PIKx_j_y0GJ6_RANR8Tjm>`_
 
+.. image:: images/overview2.png
 
-(first level 2)
----------------
 
-xxxxxx
+Doc process 
+-----------
 
-(second level 2)
-----------------
+The following diagram summarizes the ZiptieAI documentation process.
 
-yyyyy
+.. image:: images/process.png
+
 
 
 
