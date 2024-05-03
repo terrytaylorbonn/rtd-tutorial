@@ -10,7 +10,9 @@ These are topics that are perhaps not directly a part of the drone build, but yo
 This is the unintelligible blurb that you get from the ROS website: "ROS is a middleware for robotics. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms." 
 
 This is how I would explain ROS:
+
 - ROS Core: This would be the CC (companion computer) that receives and sends messages from ROS nodes.
+
 - ROS Nodes: This would be any components that want to share messages. For example, a camera and lidar could be ROS nodes IF they have the internal processor that can implement a node.
 
 Why is this important (a question I am not sure the ROS docs ever clearly answer)? This makes it possible for the camera and the lidar to be auto-discovered and auto-configured to talk to the CC. No more endless hours trying to install and configure camera/lidar drivers.
