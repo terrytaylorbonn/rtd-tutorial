@@ -15,3 +15,5 @@ Contents
    home
    Doc-overview
    Doc-process
+   Concepts
+   P1-total-sim
