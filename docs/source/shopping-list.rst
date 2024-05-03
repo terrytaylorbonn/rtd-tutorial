@@ -12,8 +12,15 @@ Amazon is (of course) the best for buy many things. What really makes it useful
 - Purchase history (this is something you will refer back to quite often while building a drone)
 
 
-GetFPY.com
+GetFPV.com
 ----------------
 
-xxx
+You can get many components (such as flight controller / ESC stacks) from this US-based supplier.
+
+
+Aliexpress (and other Chinese suppliers)
+----------------
+
+I have never ordered from Chinese suppliers. My main concern is payment security. I have heard that you can get good deals on Aliexpress, but you have to be careful about what you buy.
+
 
