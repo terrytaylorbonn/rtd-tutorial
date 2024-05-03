@@ -16,4 +16,10 @@ Contents
    Doc-overview
    Doc-process
    Concepts
+   shopping-list
    P1-total-sim
+   P2-ai-hw
+   P3-hitl
+   P4-build-platform
+   P5-etc
+   
