@@ -1,8 +1,6 @@
 Mission
 =======
 
-This is the ZiptieAI documentation website. 
-
 The ZiptieAI mission is to show how to get started with ziptie drones and AI. Its not a product. A docs.{product}.com website is not really required (there is no installation, user manual, or API specifically for ZiptieAI). Therefore, this docs site is a simple overview of the ZiptieAI documentation processes.
 
 See also 
