@@ -3,7 +3,7 @@ Zip tie AI docs
 
 This is the documentation website for the **Ziptie AI** drone project. 
 
-This site mimics the structure and content of the wiki pages, but in an easier to read format (with more detail; the wiki pages are working documents).
+This site mimics the structure and content of the wiki pages, but in an easier to read format (the wiki pages are my working documents).
 
 .. Check out the :doc:`usage` section for further information.
 
