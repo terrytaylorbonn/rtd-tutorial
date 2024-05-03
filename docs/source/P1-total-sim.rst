@@ -1,18 +1,17 @@
 Part 1 Total simulation 
 =======================
 
-xxxxxx:
+Total simulation is a simulation where all components are simulated. This includes the world, the flight computer, the ground control station, the companion computer, and the camera + AI algorithms.
+
+docs/source/images/airplane_person.png
 
 
-(first level 2)
----------------
+This kind of simulation is valuable because it allows to test the whole system in a controlled environment. It is also useful to test the system in extreme conditions that are difficult to reproduce in real life.
 
-xxxxxx
+The flight computer (FC) controls all surfaces (which are just the rotors). Simple Mavlink commands are sent to FC to fly the copter. Therefore copter reaction to flight commands can be simulated accurately.
+Ground control stations (QGC, MP) are computer based anyway.
 
-(second level 2)
-----------------
-
-yyyyy
+The CC (companion computer) runs several protocols (ROS, MAVROS, MAVLINK, MAVPROXY) that can be simulated accurately.
 
 
 
