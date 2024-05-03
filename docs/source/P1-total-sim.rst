@@ -23,15 +23,15 @@ The simulation covers the following:
 
 1.3b Lidar object avoidance: A basic example using simulated components.
 
-1.1.4 Drone swarm. A basic example using simulated components.
+1.4 Drone swarm. A basic example using simulated components.
 
-5 Flight planners. Using Mission planner and QGroundControl to plan missions.
+1.5 Flight planners. Using Mission planner and QGroundControl to plan missions.
 
 
 2 PX4 simulation
 ----------------------------------------------
 
-Core (SITL, Gazebo, ROS).
+Covers the core simulation topics for PX4 (SITL, Gazebo, ROS).
 
 3 Matlab simulation
 ----------------------------------------------
