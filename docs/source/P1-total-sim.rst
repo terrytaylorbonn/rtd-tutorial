@@ -3,8 +3,9 @@ Part 1 Total simulation
 
 Total simulation is a simulation where all components are simulated. This includes the world, the flight computer, the ground control station, the companion computer, and the camera + AI algorithms.
 
-![ai-person-plane](docs/source/images/airplane_person.png)
+![ai-person-plane](images/airplane_person.png)
 
+Note: I got my start with total simulation thanks to an incredible [video series put together by Eric from Intelligent Quads](https://www.youtube.com/playlist?list=PLy9nLDKxDN683GqAiJ4IVLquYBod_2oA6) 4 years ago. I could not have made such fast progress without his series. His was the only (genuinely) step-by-step intro to the drone world that I found (my version of his series is more up-to-date and easier to follow).
 
 This kind of simulation is valuable because it allows to test the whole system in a controlled environment. It is also useful to test the system in extreme conditions that are difficult to reproduce in real life.
 
