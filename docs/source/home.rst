@@ -8,8 +8,8 @@ There 2 main types of drones, for 2 different missions:
 - Autonomous drones. These are the larger drones that focus on autonomy. They are typically used for mapping, surveying, and other missions that require a lot of flight time and payload capacity. However, you can also use them for other missions, such as search and rescue, surveillance, and more.
 
 AI focuses primarily on 
-- Object recognition. This is the ability to recognize objects in the environment. This is useful for missions such as search and rescue, surveillance, and more.
-- Object detection. This is the ability to detect objects in the environment. This is useful for missions such as obstacle avoidance, collision avoidance, and more.
+* Object recognition. This is the ability to recognize objects in the environment. This is useful for missions such as search and rescue, surveillance, and more.
+* Object detection. This is the ability to detect objects in the environment. This is useful for missions such as obstacle avoidance, collision avoidance, and more.
 - Path planning. This is the ability to plan a path for the drone to follow. This is useful for missions such as mapping, surveying, and more.  
 
 *Below: An FPV drone (if jammed, the FPV drone becomes uncontrollable; with AI it becomes autonomous).*
