@@ -1,7 +1,7 @@
 Concepts 
 ========
 
-ZiptieiAI Mission
+The mission
 -----------------
 
 The ZiptieAI mission is to show how to get started with ziptie drones and AI (it not a product). 
