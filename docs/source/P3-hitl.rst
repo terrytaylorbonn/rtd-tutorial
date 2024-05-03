@@ -7,13 +7,17 @@ In part 3 a real Pixhawk (AP/PX4) (below in red) is used. The rest of the copter
 .. image:: images/3_real_fc_2.png
 
 
-This section describes HITL (hardware in the loop; a real FC) simulation.
+HITL is described for PX4, Ardupilot, and Matlab.
 
 PX4
 ----
 
+xxxx
+
 Ardupilot
 -------------
+
+xxxx
 
 Matlab
 -----------
