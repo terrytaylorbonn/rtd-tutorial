@@ -14,8 +14,5 @@ Ground control stations (QGC, MP) are computer based anyway.
 
 The CC (companion computer) runs several protocols (ROS, MAVROS, MAVLINK, MAVPROXY) that can be simulated accurately.
 
-`ZiptieAi.com <https://ziptieai.com/>`_
-
-
 
 
