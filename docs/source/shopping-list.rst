@@ -21,6 +21,6 @@ You can get many components (such as flight controller / ESC stacks) from this U
 Aliexpress (and other Chinese suppliers)
 ----------------
 
-I have never ordered from Chinese suppliers. My main concern is payment security. I have heard that you can get good deals on Aliexpress, but you have to be careful about what you buy.
+I have never ordered from Chinese suppliers because of my concerns about payment info security. I have also heard that you can get good deals on Aliexpress, but you have to be careful about what you buy.
 
 
