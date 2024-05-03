@@ -14,7 +14,6 @@ Contents
 
 .. toctree::
 
-   home
    Doc-overview
    Concepts
    shopping-list
