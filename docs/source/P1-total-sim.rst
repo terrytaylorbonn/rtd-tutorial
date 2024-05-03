@@ -3,7 +3,7 @@ Part 1 Total simulation
 
 Total simulation is a simulation where all components are simulated. This includes the world, the flight computer, the ground control station, the companion computer, and the camera + AI algorithms.
 
-docs/source/images/airplane_person.png
+![ai-person-plane](docs/source/images/airplane_person.png)
 
 
 This kind of simulation is valuable because it allows to test the whole system in a controlled environment. It is also useful to test the system in extreme conditions that are difficult to reproduce in real life.
