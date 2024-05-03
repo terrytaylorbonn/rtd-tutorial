@@ -11,11 +11,11 @@ This is the unintelligible blurb that you get from the ROS website: "ROS is a mi
 
 This is how I would explain ROS:
 
-- ROS Core: This would be the CC (companion computer) that receives and sends messages from ROS nodes.
+- ROS Core: This would be the CC (companion computer) that runs ROS to receive/send messages from/to ROS nodes.
 
-- ROS Nodes: This would be any components that want to share messages. For example, a camera and lidar could be ROS nodes IF they have the internal processor that can implement a node.
+- ROS Nodes: This would be any component that wants to share messages. For example, a camera and lidar could be ROS nodes IF they have the internal processor that can run ROS to implement a node.
 
-Why is this important (a question I am not sure the ROS docs ever clearly answer)? This makes it possible for the camera and the lidar to be auto-discovered and auto-configured to talk to the CC. No more endless hours trying to install and configure camera/lidar drivers.
+This makes it possible for the camera and the lidar to be auto-discovered and auto-configured to talk to the CC (this assumes the ROS master (core) and nodes are all on the same network). No more endless hours trying to install and configure camera/lidar drivers.
 
 
 2 Wired
