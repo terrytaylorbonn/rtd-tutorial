@@ -16,12 +16,12 @@ The goals for the tests in this section include
 HW/AI combinations used
 -----------------
 
-- Ubuntu. Haarcascades and mediapipe gestures running on the Ubuntu (documents 2_B1.1,2,3, 23.0122-0131). I started using Ubuntu as the first test platform (instead of PI4/Nano) to avoid issues (such as camera drivers; PI4/Nano used their custom version of 18.04 Ubuntu).
+- Ubuntu. Haarcascades and mediapipe gestures running on the Ubuntu . I started using Ubuntu as the first test platform (instead of PI4/Nano) to avoid issues (such as camera drivers; PI4/Nano used their custom version of 18.04 Ubuntu).
 
-- PI4. Haarcascades, TF-lite, and mediapipe face meshes (document 2_B2, 23.0119-0121).
+- PI4. Haarcascades, TF-lite, and mediapipe face meshes.
 
 
-- Nvidia. OpenCV, haarcascades (documents 2_B3_2a-1, 2_B3_3a, 23.0110-0118; 2_B3_2a describes Nvidia tutorials, for which I had trouble getting the camera other drivers setup).
+- Nvidia. OpenCV, haarcascades.
 
 - STM. Covers AI implmentations on STM hardware.
 
