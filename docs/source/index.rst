@@ -1,7 +1,7 @@
 Zip tie AI docs 
 ===============
 
-(docs.ziptieai.com is out-of-date and not being maintained; docs.ziptieai.com is RTD/Sphinx; ziptieai.com is jekyll)
+**NOTE: docs.ziptieai.com is out-of-date and not being maintained.** docs.ziptieai.com is RTD/Sphinx; ziptieai.com is jekyll.
 
 This is the documentation website for the **Ziptie AI** drone project.
 
