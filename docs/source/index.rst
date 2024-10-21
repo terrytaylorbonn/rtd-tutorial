@@ -1,6 +1,8 @@
 Zip tie AI docs 
 ===============
 
+(docs.ziptieai.com is out-of-date and not being maintained).
+
 This is the documentation website for the **Ziptie AI** drone project.
 
 Note that ZiptieAI is basically a DIY project (not a product). The docs describe how to use other products and tools. Therefore, this site does not have many of the typical product documentation sections (such as an API reference).
